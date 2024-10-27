@@ -1,1 +1,2 @@
-the dupilicate is created
+the dupilicate is detected
+
